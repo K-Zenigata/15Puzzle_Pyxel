@@ -1,1 +1,1 @@
-# 15Puzzle_Pyxel
+Python の、Pyxelです。終了の音楽がショボいですが、気にしないでください。
